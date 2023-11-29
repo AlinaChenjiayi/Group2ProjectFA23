@@ -38,21 +38,21 @@ This section provides a detailed guide on how to import data into the Amazon For
 1. **Navigate to AWS S3**: Log into your AWS Management Console and open the S3 service.
    
 2. **Locate the Bucket**: In the S3 dashboard, find and click on the bucket, you can use the public bucket you have created before. If you haven't created a bucket, click create a bucket. Please make sure disselect all checking boxes in Block Public Access settings to make the bucket public. 
-   ![Step 1.1](https://your-s3-bucket-url/S3-bucket-guide-pics/Step1.1.png)
-   ![Step 1.2](https://your-s3-bucket-url/S3-bucket-guide-pics/Step1.2.png)
+   ![Step 1.1](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.1.png)
+   ![Step 1.2](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.2.png)
 
 ### Step 2: Uploading Data to S3 Bucket
 
 3. **Upload Data Files**: Entering the bucket from step 1, under the tab 'Object', click on the 'Upload' button to add your data files to this folder.
-    ![Step 1.3](https://your-s3-bucket-url/S3-bucket-guide-pics/Step1.3.png)
-   ![Step 1.4](https://your-s3-bucket-url/S3-bucket-guide-pics/Step1.5.png)
-   ![Step 1.5](https://your-s3-bucket-url/S3-bucket-guide-pics/Step1.6.png)
+    ![Step 1.3](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.3.png)
+   ![Step 1.4](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.5.png)
+   ![Step 1.5](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.6.png)
 
 ### Step 3: Verifying Data Upload
 
 4. **Check File Upload**: Ensure that all your data files are uploaded successfully and correctly in the folder. You can click on individual files to view their details and confirm the upload. 
-   ![Step 1.6](https://your-s3-bucket-url/S3-bucket-guide-pics/Step1.7.png)
-   ![Step 1.7](https://your-s3-bucket-url/S3-bucket-guide-pics/Step1.8.png)
+   ![Step 1.6](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.7.png)
+   ![Step 1.7](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.8.png)
 
 By following these steps, you should have successfully imported your data into the AWS S3 Bucket, ready for use with Amazon Forecast. Make sure the data is correctly formatted and aligned with the requirements of the forecasting model for optimal results.
 
