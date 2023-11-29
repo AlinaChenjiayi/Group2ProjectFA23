@@ -38,7 +38,7 @@ This section provides a detailed guide on how to import data into the Amazon For
 1. **Navigate to AWS S3**: Log into your AWS Management Console and open the S3 service.
    
 2. **Locate the Bucket**: In the S3 dashboard, find and click on the bucket, you can use the public bucket you have created before. If you haven't created a bucket, click create a bucket. Please make sure disselect all checking boxes in Block Public Access settings to make the bucket public. 
-   ![Step 1.1](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.1.png)
+   ![Step 1.1](./S3-bucket-guide-pics/Step1.1.png)
    ![Step 1.2](https://github.com/AlinaChenjiayi/Group2ProjectFA23/raw/main/S3-bucket-guide-pics/Step1.2.png)
 
 ### Step 2: Uploading Data to S3 Bucket
