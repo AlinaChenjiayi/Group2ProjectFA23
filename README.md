@@ -53,9 +53,6 @@
 - Examples of weather data and economic indicators used in the project.
 - Sample outputs from the Amazon Forecast predictions.
 
-## Contributing
-- Guidelines for community contributions.
-- Process for reporting issues or suggesting enhancements.
 
 ## License
 - Information regarding the project's licensing terms.
