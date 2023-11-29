@@ -1,4 +1,11 @@
 # Predicting the Unpredictable: Amazon Forecast and Rare Weather Events
+## Team Members:
+- **Audrey Bu:** 
+- **Alina Chen:**
+- **Indy Gu:** 
+- **Alvin Jiao:**
+- **Yiran Liu:** 
+
 
 ## Introduction
 This project embarked from a personal journey, where an unexpected encounter with erratic weather during our team member's travel in Basel sparked a deeper exploration into weather forecasting. Motivated by this real-world experience, we chose Amazon Forecast for its advanced time-series forecasting capabilities to develop a model that predicts rare weather events with greater accuracy. Focusing on historical weather data from Basel, our aim was to create a tool that addresses the challenges faced by travelers. The result is a refined weather forecasting model, enhancing travel planning with more reliable predictions and better preparedness.
@@ -106,13 +113,6 @@ Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an e
 
 ## Acknowledgments
 This project, "Predicting the Unpredictable: Amazon Forecast and Rare Weather Events," owes its inception and development to a dedicated team of individuals whose contributions have been invaluable.
-
-**Team Members:**
-- **Audrey Bu:** 
-- **Alina Chen:**
-- **Indy Gu:** 
-- **Alvin Jiao:**
-- **Yiran Liu:** 
 
 Special thanks to **Professor Dr. Jeremy Jacobson** of QTM350. This course, with its emphasis on programming for data science and its applications in a real-world context, has been the backbone of this project. Dr. Jacobson's guidance in computing concepts, workflow for reproducible research, and utilization of cloud computing resources has been instrumental in shaping our approach.
 
