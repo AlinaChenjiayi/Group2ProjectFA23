@@ -1,8 +1,10 @@
 # Predicting the Unpredictable: Amazon Forecast and Rare Weather Events
 
 ## Introduction
-- Brief overview of the project's aim to use Amazon Forecast for predicting rare weather events.
-- Discussion on the potential impact of such predictions on various economic sectors.
+This project embarked from a personal journey, where an unexpected encounter with erratic weather during our team member's travel in Basel sparked a deeper exploration into weather forecasting. Motivated by this real-world experience, we chose Amazon Forecast for its advanced time-series forecasting capabilities to develop a model that predicts rare weather events with greater accuracy. Focusing on historical weather data from Basel, our aim was to create a tool that addresses the challenges faced by travelers. The result is a refined weather forecasting model, enhancing travel planning with more reliable predictions and better preparedness.
+
+In this GitHub repository, you will find all the resources and documentation necessary to replicate our project. It serves as a comprehensive guide, detailing our use of Amazon Forecast, our data analysis strategies, and the methodologies we employed. This repository is intended as a practical resource for researchers, data scientists, and anyone interested in applying advanced forecasting techniques to real-world scenarios, providing a step-by-step guide to recreate our approach in predicting rare weather events.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
