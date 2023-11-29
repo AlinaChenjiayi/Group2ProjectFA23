@@ -7,16 +7,12 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Setup and Installation](#setup-and-installation)
-- [Project Structure](#project-structure)
-- [Usage Instructions](#usage-instructions)
-- [AWS Services Integration](#aws-services-integration)
 - [Data Collection and Processing](#data-collection-and-processing)
-- [Analysis and Results](#analysis-and-results)
-- [Blog Post Details](#blog-post-details)
-- [Data Examples](#data-examples)
-- [Contributing](#contributing)
-- [License](#license)
+- [Workflow](#workflow)
+- [Architecture Overview](#architecture-overview)
+- [Usage Instructions](#usage-instructions)
+- [Resources: AWS Services Integration](#resources-aws-services-integration)
+- [Blog Post](#blog-post)
 - [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
