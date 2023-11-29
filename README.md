@@ -67,7 +67,7 @@ By following these steps, you should have successfully imported your data into t
 - Sample outputs from the Amazon Forecast predictions. 
   
 ## Workflow
--c
+- dsss
 
 ## Architecture Overview
 - Diagram
