@@ -33,11 +33,9 @@ Before beginning with this project, ensure that you have the following prerequis
 - **Jupyter Notebook:** For running and understanding the Jupyter notebooks included in the project.
 - **AWS Account:** Access to an AWS account with permissions to use Amazon Forecast, S3, Lambda, EC2, and DynamoDB.
 
-**Data:**
-- Access to the weather data from [MeteoBlue](https://www.meteoblue.com/en/weather/archive/export) or similar historical weather datasets.
-
 ## Workflow
 ### Data Collection and Processing
+The dataset we are using is the open dataset that records the b
 #### Import Data Guide
 This section provides a detailed guide on how to import data into the Amazon Forecast model using AWS S3 Bucket. Follow these steps to ensure a smooth data import process.
 
