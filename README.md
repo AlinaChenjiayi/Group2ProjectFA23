@@ -114,6 +114,3 @@ This project, "Predicting the Unpredictable: Amazon Forecast and Rare Weather Ev
 Special thanks to **Professor Dr. Jeremy Jacobson** of QTM350. This course, with its emphasis on programming for data science and its applications in a real-world context, has been the backbone of this project. Dr. Jacobson's guidance in computing concepts, workflow for reproducible research, and utilization of cloud computing resources has been instrumental in shaping our approach.
 
 We would also like to extend our gratitude to [MeteoBlue](https://www.meteoblue.com/en/weather/archive/export) for providing the comprehensive weather data that formed the foundation of our analysis. Their archive has been a vital resource in our endeavor to understand and predict weather patterns.
-
-This project is a testament to the collaborative efforts of everyone involved, and we are immensely thankful for their time, expertise, and enthusiasm.
-
