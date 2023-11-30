@@ -38,7 +38,7 @@ Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an e
 
 ## Workflow
 ### Data Collection and Processing
-The dataset we are using is the open dataset that records the b
+The dataset we are using is the open dataset that records the weather in Basel. We have uploaded it in [*Dataset Folder*](https://github.com/AlinaChenjiayi/Group2ProjectFA23/tree/main/Dataset), along with the training and test sets.
 #### Import Data Guide
 This section provides a detailed guide on how to import data into the Amazon Forecast model using AWS S3 Bucket. Follow these steps to ensure a smooth data import process.
 
