@@ -39,7 +39,7 @@ Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an e
 ## Workflow
 ### Data Collection and Processing
 The dataset we are using is the open dataset that records the weather in Basel. We have uploaded it in [*Dataset Folder*](https://github.com/AlinaChenjiayi/Group2ProjectFA23/tree/main/Dataset), along with the training and test sets.
-#### Import Data Guide
+### Import Data Guide
 This section provides a detailed guide on how to import data into the Amazon Forecast model using AWS S3 Bucket. Follow these steps to ensure a smooth data import process.
 
 **Step 1: Accessing AWS S3**
@@ -63,7 +63,7 @@ This section provides a detailed guide on how to import data into the Amazon For
 
 By following these steps, you should have successfully imported your data into the AWS S3 Bucket, ready for use with Amazon Forecast. Make sure the data is correctly formatted and aligned with the requirements of the forecasting model for optimal results.
 
-#### Data Preprocessing
+### Data Preprocessing
 - We first add a new column called ID with unique values. Then, we convert the timestamp column to datetime format that's suitable for S3 and Amazon forecast.
 - Secondly, we modify the column names to remove spaces and special characters. We also convert the column names to **lower case**. This is required for Amazon Forecast.
 - Finally, we perform train-test split with ratio 80%-20% and export to csv file.
@@ -73,7 +73,7 @@ For detailed walkthrough of the data loading and preprocessing process, you can 
 - Diagram
   
 ### Usage Instructions
-- For detailed walthrough of using Amazon Forecast, please refer to **xxxxxx**
+- For detailed walthrough of using Amazon Forecast, please refer to our uploaded [tutorial](https://github.com/AlinaChenjiayi/Group2ProjectFA23/blob/main/ML%20with%20Amazon%20Forecast.html).
 - For the code we've attached, please change the related link and working directory in the code first when you use it. 
 
 ## Resources: AWS Services Integration
