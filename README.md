@@ -34,7 +34,7 @@ Before beginning with this project, ensure that you have the following prerequis
 - **AWS Account:** Access to an AWS account with permissions to use Amazon Forecast, S3, Lambda, EC2, and DynamoDB.
 - 
 ## Blog Post
-Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an engaging narrative and comprehensive analysis of predicting weather using Amazon Forecast. It frames the problem in a data science context, enriched with relevant graphics, background resources, and a clear hypothesis. The blog provides an insightful walkthrough of the Amazon Forecast API, detailing our experiences and findings, including unexpected insights revealed through statistical analysis. For an in-depth understanding of our journey and findings, we invite readers to explore the blog through the provided link.
+Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an engaging narrative and comprehensive analysis of predicting weather using Amazon Forecast. It frames the problem in a data science context, enriched with relevant graphics, background resources, and a clear hypothesis. The blog provides an insightful walkthrough of the Amazon Forecast API, detailing our experiences and findings, including unexpected insights revealed through statistical analysis. For an in-depth understanding of our journey and findings, we invite readers to explore the blog through the provided link: https://amazonforecastbasel.s3.amazonaws.com/Blog.html.
 
 ## Workflow
 ### Data Collection and Processing
