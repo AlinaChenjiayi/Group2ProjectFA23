@@ -72,9 +72,9 @@ For detailed walkthrough of the data loading and preprocessing process, you can 
 ### Architecture Overview
 - Diagram
   
-## Usage Instructions
-- Step-by-step guide on how to execute the project's scripts.
-- Examples of command-line operations.
+### Usage Instructions
+- For detailed walthrough of using Amazon Forecast, please refer to **xxxxxx**
+- For the code we've attached, please change the related link and working directory in the code first when you use it. 
 
 ## Resources: AWS Services Integration
 
