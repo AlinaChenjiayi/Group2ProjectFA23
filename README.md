@@ -5,7 +5,7 @@
 - **Indy Gu:** <indy.gu@emory.edu>
 - **Alvin Jiao:** <yiyang.jiao@emory.edu>
 - **Yiran Liu:** <yiran.liu@emory.edu>
-
+Feel free to contact any of us if you have any questions regarding to our project. 
 
 ## Introduction
 This project embarked from a personal journey, where an unexpected encounter with erratic weather during our team member's travel in Basel sparked a deeper exploration into weather forecasting. Motivated by this real-world experience, we chose Amazon Forecast for its advanced time-series forecasting capabilities to develop a model that predicts rare weather events with greater accuracy. Focusing on historical weather data from Basel, our aim was to create a tool that addresses the challenges faced by travelers. The result is a refined weather forecasting model, enhancing travel planning with more reliable predictions and better preparedness.
@@ -16,12 +16,12 @@ In this GitHub repository, you will find all the resources and documentation nec
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
+- [Blog Post](#blog-post)
 - [Workflow](#workflow)
   - [Data Collection and Processing](#data-collection-and-processing)
    - [Architecture Overview](#architecture-overview)
 - [Usage Instructions](#usage-instructions)
 - [Resources: AWS Services Integration](#resources-aws-services-integration)
-- [Blog Post](#blog-post)
 - [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
@@ -32,6 +32,9 @@ Before beginning with this project, ensure that you have the following prerequis
 - **Python Environment:** Python installed, along with pip for managing packages.
 - **Jupyter Notebook:** For running and understanding the Jupyter notebooks included in the project.
 - **AWS Account:** Access to an AWS account with permissions to use Amazon Forecast, S3, Lambda, EC2, and DynamoDB.
+- 
+## Blog Post
+Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an engaging narrative and comprehensive analysis of predicting weather using Amazon Forecast. It frames the problem in a data science context, enriched with relevant graphics, background resources, and a clear hypothesis. The blog provides an insightful walkthrough of the Amazon Forecast API, detailing our experiences and findings, including unexpected insights revealed through statistical analysis. For an in-depth understanding of our journey and findings, we invite readers to explore the blog through the provided link.
 
 ## Workflow
 ### Data Collection and Processing
@@ -61,8 +64,10 @@ This section provides a detailed guide on how to import data into the Amazon For
 By following these steps, you should have successfully imported your data into the AWS S3 Bucket, ready for use with Amazon Forecast. Make sure the data is correctly formatted and aligned with the requirements of the forecasting model for optimal results.
 
 #### Data Preprocessing
-- Examples of weather data and economic indicators used in the project. 
-- Sample outputs from the Amazon Forecast predictions. 
+- We first add a new column called ID with unique values. Then, we convert the timestamp column to datetime format that's suitable for S3 and Amazon forecast.
+- Secondly, we modify the column names to remove spaces and special characters. We also convert the column names to **lower case**. This is required for Amazon Forecast.
+- Finally, we perform train-test split with ratio 80%-20% and export to csv file.
+For detailed walkthrough of the data loading and preprocessing process, you can refer to **xxxx**
   
 ### Architecture Overview
 - Diagram
@@ -101,9 +106,6 @@ By following these steps, you should have successfully imported your data into t
     
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
   * RESTful API endpoints to interact with web appplication
-
-## Blog Post
-Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an engaging narrative and comprehensive analysis of predicting rare weather events using Amazon Forecast. It frames the problem in a data science context, enriched with relevant graphics, background resources, and a clear hypothesis. The blog provides an insightful walkthrough of the Amazon Forecast API, detailing our experiences and findings, including unexpected insights revealed through statistical analysis. For an in-depth understanding of our journey and findings, we invite readers to explore the blog through the provided link.
 
 
 ## Acknowledgments
