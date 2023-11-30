@@ -70,7 +70,8 @@ By following these steps, you should have successfully imported your data into t
 For detailed walkthrough of the data loading and preprocessing process, you can refer to **xxxx**
   
 ### Architecture Overview
-- Diagram
+- ![Diagram](./ArcD.jpg)
+
   
 ### Usage Instructions
 - For detailed walthrough of using Amazon Forecast, please refer to our uploaded [tutorial](https://github.com/AlinaChenjiayi/Group2ProjectFA23/blob/main/ML%20with%20Amazon%20Forecast.html).
