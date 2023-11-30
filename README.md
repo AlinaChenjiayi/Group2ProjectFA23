@@ -9,7 +9,7 @@ In this GitHub repository, you will find all the resources and documentation nec
 - **Alina Chen:** <jiayi.chen@emory.edu>
 - **Indy Gu:** <indy.gu@emory.edu>
 - **Alvin Jiao:** <yiyang.jiao@emory.edu>
-- **Yiran Liu:** <yiran.liu@emory.edu>
+- **Yiran Liu:** <yiran.liu@emory.edu> \
 Feel free to contact any of us if you have any questions regarding to our project. 
 
 
