@@ -20,7 +20,7 @@ Feel free to contact any of us if you have any questions regarding to our projec
 - [Workflow](#workflow)
   - [Data Collection and Processing](#data-collection-and-processing)
    - [Architecture Overview](#architecture-overview)
-- [Usage Instructions](#usage-instructions)
+  - [Usage Instructions](#usage-instructions)
 - [Resources: AWS Services Integration](#resources-aws-services-integration)
 - [Acknowledgments](#acknowledgments)
 
