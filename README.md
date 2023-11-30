@@ -1,10 +1,10 @@
-# Predicting the Unpredictable: Amazon Forecast and Rare Weather Events
+# Predicting the Unpredictable: Is Amazon Forecast good at predicting weather in Basel?
 ## Team Members:
-- **Audrey Bu:** 
-- **Alina Chen:**
-- **Indy Gu:** 
-- **Alvin Jiao:**
-- **Yiran Liu:** 
+- **Audrey Bu:** <audrey.bu@emory.edu>
+- **Alina Chen:** <jiayi.chen@emory.edu>
+- **Indy Gu:** <indy.gu@emory.edu>
+- **Alvin Jiao:** <yiyang.jiao@emory.edu>
+- **Yiran Liu:** <yiran.liu@emory.edu>
 
 
 ## Introduction
