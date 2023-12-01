@@ -70,7 +70,7 @@ By following these steps, you should have successfully imported your data into t
 For detailed walkthrough of the data loading and preprocessing process, you can refer to [Blog](https://github.com/AlinaChenjiayi/Group2ProjectFA23/blob/main/Blog.html)
   
 ### Architecture Overview
-- ![Diagram](./ArcD.jpg)
+ ![Diagram](./ArcD.jpg)
 
   
 ### Usage Instructions
