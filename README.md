@@ -34,7 +34,7 @@ Before beginning with this project, ensure that you have the following prerequis
 - **AWS Account:** Access to an AWS account with permissions to use Amazon Forecast, S3, Lambda, EC2, and DynamoDB.
   
 ## Blog Post
-Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an engaging narrative and comprehensive analysis of predicting weather using Amazon Forecast. It frames the problem in a data science context, enriched with relevant graphics, background resources, and a clear hypothesis. The blog provides an insightful walkthrough of the Amazon Forecast API, detailing our experiences and findings, including unexpected insights revealed through statistical analysis. For an in-depth understanding of our journey and findings, we invite readers to explore the blog through the provided link: https://amazonforecastbasel.s3.amazonaws.com/Blog.html.
+Our project blog, hosted on AWS and developed in a Jupyter notebook, offers an engaging narrative and comprehensive analysis of predicting weather using Amazon Forecast. It frames the problem in a data science context, enriched with relevant graphics, background resources, and a clear hypothesis. The blog provides an insightful walkthrough of the Amazon Forecast API, detailing our experiences and findings, including unexpected insights revealed through statistical analysis. For an in-depth understanding of our journey and findings, we invite readers to explore the blog through the provided link: [Blog post](https://amazonforecastbasel.s3.amazonaws.com/Blog.html).
 
 ## Workflow
 ### Data Collection and Processing
@@ -67,7 +67,7 @@ By following these steps, you should have successfully imported your data into t
 - We first add a new column called ID with unique values. Then, we convert the timestamp column to datetime format that's suitable for S3 and Amazon forecast.
 - Secondly, we modify the column names to remove spaces and special characters. We also convert the column names to **lower case**. This is required for Amazon Forecast.
 - Finally, we perform train-test split with ratio 80%-20% and export to csv file.
-For detailed walkthrough of the data loading and preprocessing process, you can refer to **xxxx**
+For detailed walkthrough of the data loading and preprocessing process, you can refer to [Blog](https://github.com/AlinaChenjiayi/Group2ProjectFA23/blob/main/Blog.html)
   
 ### Architecture Overview
 - ![Diagram](./ArcD.jpg)
